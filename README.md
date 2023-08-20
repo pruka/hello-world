@@ -1,2 +1,2 @@
 # hello-world
-a short description
+ben bir kediyim demek isterdim ama ben bir patatesim...
